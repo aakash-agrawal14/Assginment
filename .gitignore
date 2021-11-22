@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ApiAssignment/config
+/.vs/ApiAssignment/v16
+/bin/Debug/net5.0
+/obj
+/Properties
